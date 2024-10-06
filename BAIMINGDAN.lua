@@ -33,11 +33,17 @@ elseif Name == "qwrtytuuioosdf" then
 whitu = true
 elseif Name == "lzhy13" then 
 whitu = true
-elseif Name == "CN_baconEmperor" then 
+elseif Name == "CN_BaconEmperor" then 
 whitu = true
 elseif Name == "13579djdvwk" then 
 whitu = true
 elseif Name == "114514CN_xxc" then 
+whitu = true
+elseif Name == "as30326" then 
+whitu = true
+elseif Name == "CAJH_AwA" then 
+whitu = true
+elseif Name == "LXD2022_YCL2022" then 
 whitu = true
 end
 
