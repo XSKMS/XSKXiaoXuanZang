@@ -29,6 +29,16 @@ elseif Name == "yytr_177" then
 whitu = true
 elseif Name == "ggfgg666777" then 
 whitu = true
+elseif Name == "qwrtytuuioosdf" then 
+whitu = true
+elseif Name == "lzhy13" then 
+whitu = true
+elseif Name == "CN_baconEmperor" then 
+whitu = true
+elseif Name == "13579djdvwk" then 
+whitu = true
+elseif Name == "114514CN_xxc" then 
+whitu = true
 end
 
 if whitu then
