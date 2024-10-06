@@ -45,6 +45,8 @@ elseif Name == "CAJH_AwA" then
 whitu = true
 elseif Name == "LXD2022_YCL2022" then 
 whitu = true
+elseif Name == "mengzhicheng23" then 
+whitu = true
 end
 
 if whitu then
