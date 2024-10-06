@@ -1,0 +1,46 @@
+local OrionLib = loadstring(game:HttpGet("https://pastebin.com/raw/VeaMSRZK"))()
+
+OrionLib:MakeNotification({
+                    Name = "白名单检测",
+                    Content = "检查你是否存在白名单",
+                    Time = 10
+                })
+
+local whitu = false
+local Name = game.Players.LocalPlayer.Name
+
+if Name == "xszxwhbdd" then 
+whitu = true 
+elseif Name == "Ehhsbsuj" then 
+whitu = true 
+elseif Name == "euehhdydhd" then 
+whitu = true 
+elseif Name == "jntm6666661" then 
+whitu = true 
+elseif Name == "ggfgg666777" then 
+whitu = true 
+elseif Name == "jsjsnsjsmms2" then 
+whitu = true
+elseif Name == "fuhfhjgcgjb" then 
+whitu = true
+elseif Name == "123456zxcvbn9" then 
+whitu = true
+elseif Name == "yytr_177" then 
+whitu = true
+elseif Name == "ggfgg666777" then 
+whitu = true
+end
+
+if whitu then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/XSKMS/MS-DOORS/refs/heads/main/main.lua"))()
+else
+  
+    wait(5)
+    game.Players.LocalPlayer:Kick("你并不是白名单玩家，前往Q群:812440345")
+end
+    wait(3)  
+    OrionLib:MakeNotification({
+                    Name = "白名单用户",
+                    Content = "你是白名单用户",
+                    Time = 4
+                })
