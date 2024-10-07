@@ -53,6 +53,12 @@ elseif Name == "wddanm" then
 whitu = true
 elseif Name == "ryx123789456" then 
 whitu = true
+elseif Name == "rty123456789rty" then 
+whitu = true
+elseif Name == "zzzzzzzkysgw" then 
+whitu = true
+elseif Name == "hiao159" then 
+whitu = true
 end
 
 if whitu then
