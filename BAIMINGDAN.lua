@@ -47,6 +47,10 @@ elseif Name == "LXD2022_YCL2022" then
 whitu = true
 elseif Name == "mengzhicheng23" then 
 whitu = true
+elseif Name == "zzmm1239" then 
+whitu = true
+elseif Name == "wddanm" then 
+whitu = true
 end
 
 if whitu then
