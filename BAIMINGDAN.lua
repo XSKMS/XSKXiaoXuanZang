@@ -71,6 +71,8 @@ elseif Name == "sawawall" then
 whitu = true
 elseif Name == "asdzx10222" then 
 whitu = true
+elseif Name == "zohsksosh" then 
+whitu = true
 end
 
 if whitu then
