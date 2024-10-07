@@ -85,6 +85,8 @@ elseif Name == "hdbigwhd" then
 whitu = true
 elseif Name == "pan321322" then 
 whitu = true
+elseif Name == "qasHJ4778B" then 
+whitu = true
 end
 
 if whitu then
