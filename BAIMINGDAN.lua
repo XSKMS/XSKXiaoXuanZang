@@ -97,6 +97,12 @@ elseif Name == "wezewzaa" then
 whitu = true
 elseif Name == "hhh202499" then 
 whitu = true
+elseif Name == "CN_goo49" then 
+whitu = true
+elseif Name == "vjvjgj0" then 
+whitu = true
+elseif Name == "LJCD_NN" then 
+whitu = true
 end
 
 if whitu then
