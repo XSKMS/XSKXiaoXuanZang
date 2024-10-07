@@ -63,6 +63,10 @@ elseif Name == "sin123456xx" then
 whitu = true
 elseif Name == "qwerty25803690" then 
 whitu = true
+elseif Name == "sin123456xx" then 
+whitu = true
+elseif Name == "LiuYuMo121" then 
+whitu = true
 end
 
 if whitu then
