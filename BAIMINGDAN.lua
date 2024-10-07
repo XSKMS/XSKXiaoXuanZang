@@ -79,6 +79,10 @@ elseif Name == "Iookuhvygdcb" then
 whitu = true
 elseif Name == "Lightning_Sunshine8" then 
 whitu = true
+elseif Name == "su_look123" then 
+whitu = true
+elseif Name == "hdbigwhd" then 
+whitu = true
 end
 
 if whitu then
