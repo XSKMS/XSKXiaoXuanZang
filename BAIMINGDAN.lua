@@ -117,6 +117,8 @@ elseif Name == "konm094" then
 whitu = true
 elseif Name == "obygfvjou" then
 whitu = true
+elseif Name == "player114571" then
+whitu = true
 end
 
 if whitu then
