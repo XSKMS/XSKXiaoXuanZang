@@ -77,6 +77,8 @@ elseif Name == "54188qwertyuiop9" then
 whitu = true
 elseif Name == "Iookuhvygdcb" then 
 whitu = true
+elseif Name == "Lightning_Sunshine8" then 
+whitu = true
 end
 
 if whitu then
