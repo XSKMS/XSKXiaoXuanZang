@@ -121,6 +121,18 @@ elseif Name == "player114571" then
 whitu = true
 elseif Name == "hzhzdyind000" then
 whitu = true
+elseif Name == "jiayuze123sb" then
+whitu = true
+elseif Name == "zc123456zc670" then
+whitu = true
+elseif Name == "hzhzdyind000" then
+whitu = true
+elseif Name == "tianjibo" then
+whitu = true
+elseif Name == "FENGDI666" then
+whitu = true
+elseif Name == "china_qianguang" then
+whitu = true
 end
 
 if whitu then
