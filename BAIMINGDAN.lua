@@ -83,6 +83,8 @@ elseif Name == "su_look123" then
 whitu = true
 elseif Name == "hdbigwhd" then 
 whitu = true
+elseif Name == "pan321322" then 
+whitu = true
 end
 
 if whitu then
