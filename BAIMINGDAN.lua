@@ -137,6 +137,8 @@ elseif Name == "amateur0106" then
 whitu = true
 elseif Name == "qinglongwenxuan" then
 whitu = true
+elseif Name == "sbszFW250" then
+whitu = true
 end
 
 if whitu then
